@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Allow: /dist/assets/social-image.png
+Disallow: /404.html
+Disallow: /dist
